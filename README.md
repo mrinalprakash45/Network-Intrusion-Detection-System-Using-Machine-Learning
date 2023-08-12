@@ -155,7 +155,22 @@ Just follow 3 simple steps :
 
 1. Go to project website link .<br>
 
+![Home Page](https://github.com/mrinalprakash45/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/static/image/Index.png)
+
 2. Fill the form as shown below :<br><br>
+
+![Form](https://github.com/mrinalprakash45/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/results/15_28_16-Window.png)
+
 3. Then Click on Predict and you get the predicted attack class .<br><br>
 
-<br>
+![Prediction](https://github.com/mrinalprakash45/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/results/15_32_25-Window.png)
+
+### Features
+
+1. Pandas Profiling
+
+![Pandas](https://github.com/mrinalprakash45/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/static/image/Panda1.png)
+
+![Pandas](https://github.com/mrinalprakash45/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/static/image/Panda2.png)
+
+![Contributors](https://github.com/mrinalprakash45/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/static/image/Team.png)
